@@ -3,4 +3,4 @@
 # de acordo com o valor inserido
 
 nome=input('qual seu nome?')
-print('Bem vindo,',nome,'!!!')
+print('Bem-vindo,',nome,'!!!')
